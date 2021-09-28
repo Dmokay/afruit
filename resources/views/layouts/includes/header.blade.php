@@ -83,36 +83,36 @@
                                             <h3>Citrus Fruits</h3>
                                             <ul>
                                                 <li><a href="{{url('oranges')}}">Oranges</a></li>
-                                                <li><a href="{{url('oranges')}}">Grapefruits</a></li>
-                                                <li><a href="{{url('oranges')}}">Mandarins</a></li>
-                                                <li><a href="{{url('oranges')}}">Limes</a></li>
+                                                <li><a href="{{url('soon')}}">Grapefruits</a></li>
+                                                <li><a href="{{url('soon')}}">Mandarins</a></li>
+                                                <li><a href="{{url('soon')}}">Limes</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
                                             <h3>Stone Fruits</h3>
                                             <ul>
-                                                <li><a href="{{url('oranges')}}">Nectarines</a></li>
-                                                <li><a href="{{url('oranges')}}">Apricots</a></li>
-                                                <li><a href="{{url('oranges')}}">Peaches</a></li>
-                                                <li><a href="{{url('oranges')}}">Plums</a></li>
+                                                <li><a href="{{url('soon')}}">Nectarines</a></li>
+                                                <li><a href="{{url('soon')}}">Apricots</a></li>
+                                                <li><a href="{{url('soon')}}">Peaches</a></li>
+                                                <li><a href="{{url('soon')}}">Plums</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
                                             <h3>Melons</h3>
                                             <ul>
-                                                <li><a href="{{url('oranges')}}">Watermelon</a></li>
-                                                <li><a href="{{url('oranges')}}">Rockmelon</a></li>
-                                                <li><a href="{{url('oranges')}}">Honeydew melon</a></li>
-                                                <li><a href="{{url('oranges')}}">Persian Melon</a></li>
+                                                <li><a href="{{url('soon')}}">Watermelon</a></li>
+                                                <li><a href="{{url('soon')}}">Rockmelon</a></li>
+                                                <li><a href="{{url('soon')}}">Honeydew melon</a></li>
+                                                <li><a href="{{url('soon')}}">Persian Melon</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
                                             <h3>Berries</h3>
                                             <ul>
-                                                <li><a href="{{url('oranges')}}">Strawberries</a></li>
-                                                <li><a href="{{url('oranges')}}">Raspberries</a></li>
-                                                <li><a href="{{url('oranges')}}">Blueberries</a></li>
-                                                <li><a href="{{url('oranges')}}">Kiwi fruit</a></li>
+                                                <li><a href="{{url('soon')}}">Strawberries</a></li>
+                                                <li><a href="{{url('soon')}}">Raspberries</a></li>
+                                                <li><a href="{{url('soon')}}">Blueberries</a></li>
+                                                <li><a href="{{url('soon')}}">Kiwi fruit</a></li>
                                                 
                                             </ul>
                                         </div>
@@ -130,7 +130,7 @@
                 <!--Search Box-->
                 <div class="search-box-outer">
                     <div class="search-box">
-                        <form method="post" action="blog.html">
+                        <form method="get" action="{{url('soon')}}">
                             <div class="form-group">
                                 <input type="search" name="search-field" value="" placeholder="Search....." required="">
                                 <button type="submit"><span class="icon flaticon-search"></span></button>

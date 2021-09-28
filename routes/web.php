@@ -25,3 +25,6 @@ Route::get('/contact', function () {
 Route::get('/oranges', function () {
     return view('blog.oranges');
 });
+Route::get('/soon', function () {
+    return view('pages.soon');
+});

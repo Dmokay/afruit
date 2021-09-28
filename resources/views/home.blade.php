@@ -12,7 +12,7 @@
                         <h2>A-Fruit A Day keeps the Doctor Away</h2>
                         <div class="text">We Tell you why you should Embrace often Consumption of Fruits </div>
                         <div class="link-box">
-                            <a href="services.html">Our Blogs <i class="fa fa-angle-double-right"></i></a>
+                            <a href="{{url('soon')}}">Our Blogs <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     
@@ -26,7 +26,7 @@
                         <h2>Lead a Healthy Life</h2>
                         <div class="text">By enlightening them on matters Fruits and Vegetables</div>
                         <div class="link-box">
-                            <a href="{{('oranges')}}">Our Blogs <i class="fa fa-angle-double-right"></i></a>
+                            <a href="{{url('soon')}}">Our Blogs <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     
@@ -50,14 +50,14 @@
                                     <div class="inner">
                                         <div class="text">Brief Description of the fruit in the picture to entice the reader to click on the read more button.</div>
                                         <div class="link-box">
-                                            <a href="service-detail.html">Read More <i class="fa fa-leaf"></i></a>
+                                            <a href="{{url('oranges')}}">Read More <i class="fa fa-leaf"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="service-detail.html">Orange Fruits</a></h4>
+                                <h4><a href="{{url('oranges')}}">Orange Fruits</a></h4>
                             </div>
                         </div>
                     </div>
@@ -71,14 +71,14 @@
                                     <div class="inner">
                                         <div class="text">Brief Description of the fruit in the picture to entice the reader to click on the read more button.</div>
                                         <div class="link-box">
-                                            <a href="service-detail.html">Read More <i class="fa fa-leaf"></i></a>
+                                            <a href="{{url('soon')}}">Read More <i class="fa fa-leaf"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="service-detail.html">Strawberry Fruits</a></h4>
+                                <h4><a href="{{url('soon')}}">Strawberry Fruits</a></h4>
                             </div>
                         </div>
                     </div>
@@ -92,14 +92,14 @@
                                     <div class="inner">
                                         <div class="text">Brief Description of the fruit in the picture to entice the reader to click on the read more button.</div>
                                         <div class="link-box">
-                                            <a href="service-detail.html">Read More <i class="fa fa-leaf"></i></a>
+                                            <a href="{{url('soon')}}">Read More <i class="fa fa-leaf"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="service-detail.html">Peach Fruits</a></h4>
+                                <h4><a href="{{url('soon')}}">Peach Fruits</a></h4>
                             </div>
                         </div>
                     </div>
@@ -113,14 +113,14 @@
                                     <div class="inner">
                                         <div class="text">Brief Description of the fruit in the picture to entice the reader to click on the read more button.</div>
                                         <div class="link-box">
-                                            <a href="service-detail.html">Read More <i class="fa fa-leaf"></i></a>
+                                            <a href="{{url('soon')}}">Read More <i class="fa fa-leaf"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="service-detail.html">Watermelon </a></h4>
+                                <h4><a href="{{url('soon')}}">Watermelon </a></h4>
                             </div>
                         </div>
                     </div>
@@ -163,7 +163,7 @@
                                         <li>The motivation</li>
                                         <li>Long term goal</li>
                                     </ul>
-                                    <div class="btn-box"><a href="#" class="theme-btn btn-style-one">Read More</a></div>
+                                    <div class="btn-box"><a href="{{url('soon')}}" class="theme-btn btn-style-one">Read More</a></div>
                                 </div>
                             </div>
 
@@ -189,7 +189,7 @@
                                         <li>The motivation</li>
                                         <li>Long term goal</li>
                                     </ul>
-                                    <div class="btn-box"><a href="#" class="theme-btn btn-style-one">Read More</a></div>
+                                    <div class="btn-box"><a href="{{url('soon')}}" class="theme-btn btn-style-one">Read More</a></div>
                                 </div>
                             </div>
 
@@ -216,7 +216,7 @@
                                         <li>The motivation</li>
                                         <li>Long term goal</li>
                                     </ul>
-                                    <div class="btn-box"><a href="#" class="theme-btn btn-style-one">Read More</a></div>
+                                    <div class="btn-box"><a href="{{url('soon')}}" class="theme-btn btn-style-one">Read More</a></div>
                                 </div>
                             </div>
 
@@ -245,7 +245,7 @@
                             <div class="title-box">
                                 <h3>Request Call Back</h3>
                             </div>
-                            <form method="post" action="index.html">
+                            <form method="get" action="{{url('soon')}}">
 
                                 <div class="form-group">
                                     <input type="text" name="username" placeholder="Your Name" required="">
@@ -381,19 +381,19 @@
                             <div class="news-block">
                                 <div class="row">
                                     <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                                        <figure class="image"><a href="{{url('oranges')}}"><img src="images/ovacado.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="{{url('soon')}}"><img src="images/ovacado.jpg" alt=""></a></figure>
                                     </div>
 
                                     <div class="content-column col-lg-6 col-md-12 col-sm-12">
                                         <div class="inner">
-                                            <h3><a href="blog-detail.html">Why We Should eat a fruit after every meal?</a></h3>
+                                            <h3><a href="{{url('soon')}}">Why We Should eat a fruit after every meal?</a></h3>
                                             <ul class="info">
                                                 <li><a href="#"><i class="fa fa-comments"></i>Comment 23</a></li>
                                                 <li><a href="#"><i class="fa fa-user"></i>Aroka Moni</a></li>
                                                 <li><a href="#"><i class="fa fa-calendar"></i>Nov, 18, 2018</a></li>
                                             </ul>
                                             <div class="text">It is essential to embrace including a fruit in your meal. In an effort to keep a balanced diet, fruits play a major role</div>
-                                            <div class="link-box"><a href="{{url('oranges')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
+                                            <div class="link-box"><a href="{{url('soon')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -403,12 +403,12 @@
                             <div class="news-block">
                                 <div class="row">
                                     <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                                        <figure class="image"><a href="{{url('oranges')}}"><img src="images/gmo.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="{{url('soon')}}"><img src="images/gmo.jpg" alt=""></a></figure>
                                     </div>
 
                                     <div class="content-column col-lg-6 col-md-12 col-sm-12">
                                         <div class="inner">
-                                            <h3><a href="blog-detail.html">The myth surrounding production of GMO fruits.</a></h3>
+                                            <h3><a href="{{url('soon')}}">The myth surrounding production of GMO fruits.</a></h3>
                                             <ul class="info">
                                                 <li><a href="#"><i class="fa fa-comments"></i>Comment 23</a></li>
                                                 <li><a href="#"><i class="fa fa-user"></i>Aroka Moni</a></li>
@@ -425,19 +425,19 @@
                             <div class="news-block">
                                 <div class="row">
                                     <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                                        <figure class="image"><a href="{{url('oranges')}}"><img src="images/banana.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="{{url('soon')}}"><img src="images/banana.jpg" alt=""></a></figure>
                                     </div>
 
                                     <div class="content-column col-lg-6 col-md-12 col-sm-12">
                                         <div class="inner">
-                                            <h3><a href="blog-detail.html">An apple or a Banana?</a></h3>
+                                            <h3><a href="{{url('soon')}}">An apple or a Banana?</a></h3>
                                             <ul class="info">
                                                 <li><a href="#"><i class="fa fa-comments"></i>Comment 23</a></li>
                                                 <li><a href="#"><i class="fa fa-user"></i>Aroka Moni</a></li>
                                                 <li><a href="#"><i class="fa fa-calendar"></i>Nov, 18, 2018</a></li>
                                             </ul>
                                             <div class="text">Nutritionally speaking, fruits have different nutritional value.If you were told to choose between an apple and a banana which one will you go with?</div>
-                                            <div class="link-box"><a href="{{url('oranges')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
+                                            <div class="link-box"><a href="{{url('soon')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
                                         </div>
                                     </div>
                                 </div>

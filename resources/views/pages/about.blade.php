@@ -9,7 +9,7 @@
                     <h1>About Us</h1>
                 </div>
                 <ul class="bread-crumb clearfix">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="{{url('/')}}">Home</a></li>
                     <li>About Us</li>
                 </ul>
             </div>
@@ -29,7 +29,7 @@
                                 <h2>Welcome to A-Fruit</h2>
                             </div>
                             <div class="text">We provide enlightenment on various aspects relating to leading a healthy life. We do this by providing you with articals and blogs which are extreamly elaborate. They will open your mind and present you with a broad world surrounding healthy living</div>
-                            <div class="link-box"><a href="about.html">More About Us <i class="fa fa-angle-double-right"></i></a></div>
+                            <div class="link-box"><a href="{{url('soon')}}">More About Us <i class="fa fa-angle-double-right"></i></a></div>
                         </div>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
                             <div class="feature-block col-lg-6 col-md-6 col-sm-12">
                                 <div class="inner-box">
                                     <div class="icon"><span class="flaticon-farming-and-gardening-4"></span></div>
-                                    <h5><a href="service-detail.html">Educative Blogs</a></h5>
+                                    <h5><a href="{{url('soon')}}">Educative Blogs</a></h5>
                                     <div class="text">We will provide you according to the subject matter. Our services are second to none. They are top notch.</div>
                                 </div>
                             </div>
@@ -114,7 +114,7 @@
                             <div class="feature-block col-lg-6 col-md-6 col-sm-12">
                                 <div class="inner-box">
                                     <div class="icon"><span class="flaticon-growth-1"></span></div>
-                                    <h5><a href="service-detail.html">Connections</a></h5>
+                                    <h5><a href="{{url('soon')}}">Connections</a></h5>
                                     <div class="text">We will provide you according to the subject matter. Our services are second to none. They are top notch.</div>
                                 </div>
                             </div>
@@ -123,7 +123,7 @@
                             <div class="feature-block col-lg-6 col-md-6 col-sm-12">
                                 <div class="inner-box">
                                     <div class="icon"><span class="flaticon-yard"></span></div>
-                                    <h5><a href="service-detail.html">Consultancy</a></h5>
+                                    <h5><a href="{{url('soon')}}">Consultancy</a></h5>
                                     <div class="text">We will provide you according to the subject matter. Our services are second to none. They are top notch.</div>
                                 </div>
                             </div>
@@ -132,7 +132,7 @@
                             <div class="feature-block col-lg-6 col-md-6 col-sm-12">
                                 <div class="inner-box">
                                     <div class="icon"><span class="flaticon-cutting-tool-for-gardening"></span></div>
-                                    <h5><a href="service-detail.html">Fruits and Vegetables</a></h5>
+                                    <h5><a href="{{url('soon')}}">Fruits and Vegetables</a></h5>
                                     <div class="text">We will provide you according to the subject matter. Our services are second to none. They are top notch.</div>
                                 </div>
                             </div>

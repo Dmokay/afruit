@@ -3,11 +3,11 @@
 @section('content')
 
 <!--Page Title-->
-<section class="page-title" style="background-image:url(images/background/8.jpg);">
+<section class="page-title" style="background-image:url(images/orange4.jpg);">
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
-                    <h1>Orange Fruits</h1>
+                    <h1>Orange Fruit Seedlings</h1>
                 </div>
                 <ul class="bread-crumb clearfix">
                     <li><a href="{{url('/')}}">Home</a></li>
@@ -29,29 +29,30 @@
                         <div class="news-block-two">
                             <div class="inner-box">
                                 <div class="image-box">
-                                    <figure class="image wow fadeIn"><img src="images/resource/blog-detail.jpg" alt=""></figure>
+                                    <figure class="image wow fadeIn"><img src="images/orange6.jpg" alt=""></figure>
                                 </div>
                                 <div class="lower-content">
                                     <div class="info-box">
                                         <div class="date">23 <span>Aug</span></div>
-                                        <h3>Why We Should Choose the Garden Care?</h3>
+                                        <h3>Why We Should Embrace Orange Fruits Farming.</h3>
                                         <ul class="info">
                                             <li><a href="#"><i class="fa fa-comments"></i>Comment 23</a></li>
-                                            <li><a href="#"><i class="fa fa-user"></i>Aroka Moni</a></li>
+                                            <li><a href="#"><i class="fa fa-user"></i>Mayama</a></li>
                                         </ul>
                                     </div>
-                                    <p>Finding water in the basement is a startling discovery, no matter the age of your home. But how does water get there in the first place? While most problems are caused by poorly sealed foundations.</p>
-                                    <p>Finding water in the basement is a startling discovery, no matter the age of your home. But how does water get there in the first place? While most problems are caused by poorly sealed foundations and hydrostatic pressure, sometimes basement flooding is directly related to landscaping and water routing issues.Water in the basement is never a good sign. Most people who find signs of water in their home are confused about how it got there. Water is, after all, an elusive guest, and can be there one day and gone the next.</p>
+                                    <p>Oranges grows over a wide range of soils but light, well drained (sandy) soils are most ideal. For good production oranges require well distributed rainfall or supplementary irrigation throughout the year. A good source of water is therefore essential in orange farming. Water requirements vary according to weather conditions, but the ideal range is between 450mm – 2,700mm per year.</p>
+                                    <p>Citrus farming in Kenya requires temperature ranges from 13oC-38oC. Optimum temperature is 25oC-35oC. Extremely high temperatures may be harmful especially during flowering or if cool temperatures are followed by a hot period.</p>
+                                    <p>Damage occurs in the form of flower and leaf drop. Wind can also cause serious damage to orange trees and fruits. Hot dry wind will often scorch trees by drying young leaves. Winds of high speeds will scar fruits and cause fruit drop. Where winds are a problem, wind break shelters should be planted.</p>
                                     <blockquote>
-                                        <p>Count the garden by  the flowers, never by the leaves that fall. count your life with smiles and note tears that roll.</p>
-                                        <cite>Stomen Lokirl</cite>
+                                        <p>Orange seeds are quite easy to germinate, but a tree grown from an orange seed can take anywhere from seven to 15 years to bear fruit.</p>
+                                        <cite>Mayama Peter</cite>
                                     </blockquote>
                                     <div class="two-column row">
                                         <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                                            <figure class="image wow fadeIn"><a href="images/resource/image-7.jpg" class="lightbox-image"><img src="images/resource/image-7.jpg" alt=""></a></figure>
+                                            <figure class="image wow fadeIn"><a href="images/resource/image-7.jpg" class="lightbox-image"><img src="images/orange9.jpg" alt=""></a></figure>
                                         </div>
                                         <div class="text-column col-lg-6 col-md-12 col-sm-12">
-                                            <p>landscaping is a great way to create an eye-catching, beautiful yard. But many homeowners may not understand the benefits that come with a professional landscape design. Besides creating an aesthetically pleasing front yard, many contemporary garden designs have practical applications that can make your life a little easier. Landscaping that is properly selected, placed, and maintained can actually save you money on your monthly heating or cooling costs.Most of us go through life not looking.</p>
+                                            <p>Orange trees are a beautiful tree to have growing in your home or backyard. Not only do they produce wonderful smelling leaves, but mature trees also bear fruit.  If you're looking for a tree that will produce fruit faster, you're better off getting a grafted tree from a nursery.</p>
                                         </div>
                                     </div>
 
@@ -79,13 +80,13 @@
                             <div class="inner clearfix">
                                 <div class="prev-post">
                                     <div class="thumb"><img src="images/resource/prev-post.jpg" alt=""></div>
-                                    <h5><a href="blog-detail.html">How Landscaping Can Add Curb</a></h5>
+                                    <h5><a href="blog-detail.html">The Nutritious passion fruits</a></h5>
                                     <div class="title"><a href="blog-detail.html">Previous</a></div>
                                 </div>
 
                                 <div class="next-post">
                                     <div class="thumb"><img src="images/resource/next-post.jpg" alt=""></div>
-                                    <h5><a href="blog-detail.html">Signs of Yard Drainage Problems</a></h5>
+                                    <h5><a href="blog-detail.html">Avocado is crucial in a meal</a></h5>
                                     <div class="title"><a href="blog-detail.html">Next</a></div>
                                 </div>
                             </div>
@@ -95,34 +96,6 @@
                         <div class="comments-area">
                             <div class="group-title"><h4>Recent Comment: 03</h4></div>
                             <div class="comments-box">
-                                <div class="comment-box">
-                                    <div class="comment">
-                                        <div class="author-thumb">
-                                            <img src="images/resource/avatar-1.jpg" alt="">
-                                            <a href="#" class="reply-btn">Reply</a>
-                                        </div> 
-                                        <div class="comment-info">
-                                            <div class="name">STEPHEN PHILL</div>
-                                            <div class="date">JANUARY 7 , 2016 AT 12:21 AM</div>
-                                        </div>
-                                        <div class="text">Efficiently unleash cross-media information without cross-media value. Quickly maximize timely fun deliverables for real-time schemas. </div>
-                                    </div>
-                                </div>
-
-                                <div class="comment-box reply-comment">
-                                    <div class="comment">
-                                        <div class="author-thumb">
-                                            <img src="images/resource/avatar-2.jpg" alt="">
-                                            <a href="#" class="reply-btn">Reply</a>
-                                        </div> 
-                                        <div class="comment-info">
-                                            <div class="name">VALKOR SMITH</div>
-                                            <div class="date">says Oct 15, 2018 at 11:00</div>
-                                        </div>
-
-                                        <div class="text">Dramatically maintain clicks-and-mortar solutions without any of functional solutions.</div>
-                                    </div>
-                                </div>
 
                                 <div class="comment-box">
                                     <div class="comment">
@@ -131,13 +104,14 @@
                                             <a href="#" class="reply-btn">Reply</a>
                                         </div> 
                                         <div class="comment-info">
-                                            <div class="name">JONATHAN</div>
+                                            <div class="name">Mokaya</div>
                                             <div class="date">says Oct 15, 2018 at 11:00</div>
                                         </div>
 
-                                        <div class="text">Efficiently unleash cross-media information without cross-media value. Quickly maximize timely fun deliverables for real-time schemas. </div>
+                                        <div class="text">Effective and easily applicable farming skills on a daily. Great read. </div>
                                     </div>
                                 </div>
+
                             </div>
                         </div>
 
@@ -146,7 +120,7 @@
                             <div class="group-title">
                                 <h4>Leave a Comment</h4>
                             </div>
-                            <form method="post" action="blog.html"> 
+                            <form method="get" action="{{url('soon')}}"> 
                                 <div class="row clearfix">
 
                                     <div class="col-lg-6 col-md-12 col-sm-12 form-group">
@@ -184,7 +158,7 @@
                         
                         <!--search box-->
                         <div class="sidebar-widget search-box">
-                            <form method="post" action="blog.html">
+                            <form method="get" action="{{url('soon')}}">
                                 <div class="form-group">
                                     <input type="search" name="search-field" value="" placeholder="Search....." required="">
                                     <button type="submit"><span class="icon fa fa-search"></span></button>
@@ -196,11 +170,10 @@
                         <div class="sidebar-widget categories">
                             <div class="sidebar-title"><h3>Categories</h3></div>
                             <ul class="cat-list">
-                                <li><a href="#">Home <span>(6)</span></a></li>
-                                <li><a href="#">Honste <span>(9)</span></a></li>
-                                <li class="active"><a href="#">Hotel <span>(3)</span></a></li>
-                                <li><a href="#">Residential <span>(5)</span></a></li>
-                                <li><a href="#">Landscope <span>(7)</span></a></li>
+                                <li><a href="#">Citrus <span>(6)</span></a></li>
+                                <li><a href="#">Melons <span>(9)</span></a></li>
+                                <li class="active"><a href="#">Berries <span>(3)</span></a></li>
+                                <li><a href="#">Nuts <span>(5)</span></a></li>
                             </ul>
                         </div>
 
@@ -210,26 +183,22 @@
                             <div class="widget-content">
                                 <article class="post">
                                     <div class="post-thumb"><a href="blog-detail.html"><img src="images/resource/post-thumb-3.jpg" alt=""></a></div>
-                                    <h5><a href="blog-detail.html">6 Landscaping Methods to Prevent</a></h5>
+                                    <h5><a href="blog-detail.html">Tomato Seedlings Essential</a></h5>
                                     <div class="post-info">June 21, 2017</div>
                                 </article>
 
                                 <article class="post">
                                     <div class="post-thumb"><a href="blog-detail.html"><img src="images/resource/post-thumb-4.jpg" alt=""></a></div>
-                                    <h5><a href="blog-detail.html">Signs of Yard Drainage Problems</a></h5>
+                                    <h5><a href="blog-detail.html">Get your Apple seedlings</a></h5>
                                     <div class="post-info">June 21, 2017</div>
                                 </article>
 
-                                <article class="post">
-                                    <div class="post-thumb"><a href="blog-detail.html"><img src="images/resource/post-thumb-5.jpg" alt=""></a></div>
-                                    <h5><a href="blog-detail.html">How Landscaping Can Add Curb</a></h5>
-                                    <div class="post-info">June 21, 2017</div>
-                                </article>
+                                
                             </div>
                         </div>
 
                         <!-- Gallery Widget -->
-                        <div class="sidebar-widget gallery-widget">
+                        <!-- <div class="sidebar-widget gallery-widget">
                             <div class="sidebar-title"><h3>Instagram</h3></div>
                             <div class="link-box"><a href="#">Follow us</a></div>
                             <div class="gallery-outer clearfix">
@@ -257,10 +226,10 @@
                                     <a href="images/gallery/6.jpg" class="lightbox-image" title="Image Title Here"><img src="images/resource/insta-6.jpg" alt=""></a>
                                 </figure>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Tags -->
-                        <div class="sidebar-widget tags">
+                        <!-- <div class="sidebar-widget tags">
                             <div class="sidebar-title"><h3>Tag Cloud</h3></div>
                             <ul class="tag-list clearfix">
                                 <li><a href="#">Lawn</a></li>
@@ -272,7 +241,7 @@
                                 <li><a href="#">Watering</a></li>
                                 <li><a href="#">Eco</a></li>
                             </ul>
-                        </div>              
+                        </div>               -->
                     </aside>
                 </div>
             </div>
