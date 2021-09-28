@@ -27,7 +27,7 @@
                     <div class="inner-column">
                         <div class="sec-title">
                             <span class="title">Get in Touch</span>
-                            <h2>Get Your Project Started</h2>
+                            <h2>Talk to Us Today</h2>
                         </div>
                         <!-- Contact Form -->
                         <div class="contact-form">
