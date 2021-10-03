@@ -8,11 +8,11 @@
             <div class="slide-item" style="background-image: url(images/main-slider/image-1.jpg);">
                 <div class="auto-container">
                 <div class="content-box">
-                        <h4>Its true that </h4>
-                        <h2>A-Fruit A Day keeps the Doctor Away</h2>
-                        <div class="text">We Tell you why you should Embrace often Consumption of Fruits </div>
+                        <h4>Quality Seedlings </h4>
+                        <h2>Fruit Plants Seedlings for your Fruit Farming</h2>
+                        <div class="text">We will guide you every step of the way </div>
                         <div class="link-box">
-                            <a href="{{url('soon')}}">Our Blogs <i class="fa fa-angle-double-right"></i></a>
+                            <a href="{{url('hass')}}">Our Products <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     
@@ -22,11 +22,11 @@
             <div class="slide-item" style="background-image: url(images/main-slider/image-2.jpg);">
                 <div class="auto-container">
                 <div class="content-box">
-                        <h4>Enabling Masses </h4>
-                        <h2>Lead a Healthy Life</h2>
-                        <div class="text">By enlightening them on matters Fruits and Vegetables</div>
+                        <h4>Educating Masses </h4>
+                        <h2>Making fruit farming easy and enjoyable</h2>
+                        <div class="text">Get Enlightened on various fruit Cultivation Strategies</div>
                         <div class="link-box">
-                            <a href="{{url('soon')}}">Our Blogs <i class="fa fa-angle-double-right"></i></a>
+                            <a href="{{url('navel')}}">Our products <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     
@@ -45,19 +45,22 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="images/orange2.jpeg" alt=""></figure>
+                                <figure class="image"><img src="images/grapes/grapes1.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="inner">
-                                        <div class="text">Brief Description of the fruit in the picture to entice the reader to click on the read more button.</div>
+                                        <div class="text">
+                                            Grapes are berries that grow on a vine. Because of their versatility, 
+                                            variety and portability, grapes are popular all over the world. 
+                                        </div>
                                         <div class="link-box">
-                                            <a href="{{url('oranges')}}">Read More <i class="fa fa-leaf"></i></a>
+                                            <a href="{{url('grapes')}}">Read More <i class="fa fa-leaf"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="{{url('oranges')}}">Orange Fruits</a></h4>
+                                <h4><a href="{{url('grapes')}}">Grape Fruits</a></h4>
                             </div>
                         </div>
                     </div>
@@ -66,19 +69,22 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="images/strawberry.jpeg" alt=""></figure>
+                                <figure class="image"><img src="images/oranges/n1.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="inner">
-                                        <div class="text">Brief Description of the fruit in the picture to entice the reader to click on the read more button.</div>
+                                        <div class="text">
+                                            Easily identifiable because of thier peculiar human-navel-like formation found opposite
+                                            the stem-end, we can tell Navel Oranges from other cultivars
+                                        </div>
                                         <div class="link-box">
-                                            <a href="{{url('soon')}}">Read More <i class="fa fa-leaf"></i></a>
+                                            <a href="{{url('navel')}}">Read More <i class="fa fa-leaf"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="{{url('soon')}}">Strawberry Fruits</a></h4>
+                                <h4><a href="{{url('navel')}}">Navel Orange Fruits</a></h4>
                             </div>
                         </div>
                     </div>
@@ -87,19 +93,22 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="images/peach2.jpeg" alt=""></figure>
+                                <figure class="image"><img src="images/avocado/hass2.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="inner">
-                                        <div class="text">Brief Description of the fruit in the picture to entice the reader to click on the read more button.</div>
+                                        <div class="text">
+                                            Hass Avocado is a type A cultivar of avocado with distinctive dark green-colored leaves, dimpled skin and weighs an average of 200 to 300 grams.
+
+                                        </div>
                                         <div class="link-box">
-                                            <a href="{{url('soon')}}">Read More <i class="fa fa-leaf"></i></a>
+                                            <a href="{{url('hass')}}">Read More <i class="fa fa-leaf"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="{{url('soon')}}">Peach Fruits</a></h4>
+                                <h4><a href="{{url('hass')}}">Hass Avocado</a></h4>
                             </div>
                         </div>
                     </div>
@@ -108,19 +117,49 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="images/melon3.jpeg" alt=""></figure>
+                                <figure class="image"><img src="images/mangoes/9.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="inner">
-                                        <div class="text">Brief Description of the fruit in the picture to entice the reader to click on the read more button.</div>
+                                        <div class="text">
+                                        Mangoes are increansingly becoming mans go to fruit because of its robust nutritional
+                                        values, ready to eat nature and most recently it has become a source of both income and
+                                        employment
+
+                                        </div>
                                         <div class="link-box">
-                                            <a href="{{url('soon')}}">Read More <i class="fa fa-leaf"></i></a>
+                                            <a href="{{url('mangoes')}}">Read More <i class="fa fa-leaf"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="{{url('soon')}}">Watermelon </a></h4>
+                                <h4><a href="{{url('mangoes')}}">Mango Fruit</a></h4>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Service Block -->
+                    <div class="service-block">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><img src="images/pomegranates/5.jpeg" alt=""></figure>
+                                <div class="overlay-box">
+                                    <div class="inner">
+                                        <div class="text">
+                                            Also known as seeded apple. It is a drought enduring plant and is known to be doing well
+                                            along the tropics with small amouts of water it will flower thoughout the year
+                                        </div>
+                                        <div class="link-box">
+                                            <a href="{{url('pomegranates')}}">Read More <i class="fa fa-leaf"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="caption-box">
+                                <span class="icon flaticon-plant"></span>
+                                <h4><a href="{{url('pomegranates')}}">Pomegranate Fruit </a></h4>
                             </div>
                         </div>
                     </div>
@@ -344,14 +383,14 @@
                 <div class="content-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <span class="title">For Online Appointment Please Call Us Today</span>
-                        <h3>Get Direct Contact to <span class="theme_color">A-Fruit</span></h3>
-                        <div class="text">We will advise you whenever you need, whenever you want. <br>Nairobi CBD, Kenya</div>
+                        <h3>Get Direct Contact to <span class="theme_color">A-Fruitplant</span></h3>
+                        <div class="text">We are open to your call whenever you want. <br>Muthaiga along Kiambu road,NRB</div>
                     </div>
                 </div>
 
                 <div class="btn-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
-                        <div class="message-box">+ 254 700111222 <span>or</span></div>
+                        <div class="message-box">+ 254 716611442 <span>or</span></div>
                         <div class="btn-box"><a href="{{url('contact')}}" class="theme-btn btn-style-two">Contact Us</a></div>
                     </div>
                 </div>

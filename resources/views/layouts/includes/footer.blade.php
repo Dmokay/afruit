@@ -14,7 +14,7 @@
                                         <figure class="image"><a href="index.html"><img src="images/footer-logo.png" alt=""></a></figure>
                                     </div>
                                     <div class="widget-content">
-                                        <div class="text">A-fruit is a company whose aim is to enlighten society on everything relating to Fruits</div>
+                                        <div class="text">A-fruitplant is a company whose aim is to enlighten society on everything relating to Fruits and fruit farming</div>
                                         <ul class="social-links">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>

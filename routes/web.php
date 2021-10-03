@@ -22,9 +22,29 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('pages.contact');
 });
-Route::get('/oranges', function () {
-    return view('blog.oranges');
-});
 Route::get('/soon', function () {
     return view('pages.soon');
+});
+
+
+Route::get('/fuerte', function () {
+    return view('blog.fue_avocado');
+});
+Route::get('/grapes', function () {
+    return view('blog.grapes');
+});
+Route::get('/hass', function () {
+    return view('blog.hass_avocado');
+});
+Route::get('/mangoes', function () {
+    return view('blog.mangoes');
+});
+Route::get('/navel', function () {
+    return view('blog.navel_orange');
+});
+Route::get('/pixie', function () {
+    return view('blog.pixie_orange');
+});
+Route::get('/pomegranates', function () {
+    return view('blog.pomegranates');
 });

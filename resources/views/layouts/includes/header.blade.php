@@ -38,8 +38,16 @@
                 <div class="upper-column info-box">
                     <div class="icon-box"><span class="icon flaticon-mail-1"></span></div>
                     <ul>
-                        <li><span>Send your mail at</span></li>
-                        <li><a href="#">afruit@support.com</a></li>
+                        <li><span>Send your mail to</span></li>
+                        <li><a href="#">afruitplant@support.co.ke</a></li>
+                    </ul>
+                </div>
+                <!--Info Box-->
+                <div class="upper-column info-box">
+                    <div class="icon-box"><span class="icon flaticon-phone"></span></div>
+                    <ul>
+                        <li><span>Call Us/ Whatsapp</span></li>
+                        <li>+254 716611442</li>
                     </ul>
                 </div>
 
@@ -76,43 +84,46 @@
                             <li><a href="{{url('about')}}">About Us</a></li>
                         
                            
-                            <li class="dropdown has-mega-menu"><a href="#">Blog</a>
+                            <li class="dropdown has-mega-menu"><a href="#">Products</a>
                                 <div class="mega-menu">
                                     <div class="mega-menu-bar row">
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
                                             <h3>Citrus Fruits</h3>
                                             <ul>
-                                                <li><a href="{{url('oranges')}}">Oranges</a></li>
-                                                <li><a href="{{url('soon')}}">Grapefruits</a></li>
-                                                <li><a href="{{url('soon')}}">Mandarins</a></li>
-                                                <li><a href="{{url('soon')}}">Limes</a></li>
+                                                <li><a href="{{url('grapes')}}">Grape fruits</a></li>
+                                                <li><a href="{{url('pixie')}}">Pixie Orange</a></li>
+                                                <li><a href="{{url('navel')}}">Navel Orange</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="column col-lg-3 col-md-3 col-sm-12">
+                                            <h3>Tropical Fruits</h3>
+                                            <ul>
+                                                <li><a href="{{url('mangoes')}}">Mangoes</a></li>
+                                                <li><a href="{{url('hass')}}">Hass Avocado</a></li>
+                                                <li><a href="{{url('fuerte')}}">Fuerte Avocado</a></li>
+                                                <!-- <li><a href="{{url('soon')}}">Bananas</a></li> -->
+                                                <!-- <li><a href="{{url('soon')}}">Guava</a></li> -->
+                                               
+                                            </ul>
+                                        </div>
+                                        
+                                        <div class="column col-lg-3 col-md-3 col-sm-12">
+                                            <h3>Berries</h3>
+                                            <ul>
+                                            
+                                                <li><a href="{{url('pomegranates')}}"> Pomegranates</a></li>
+                                                <li><a href="{{url('soon')}}">Strawberries</a></li>
+                                                <li><a href="{{url('soon')}}">Blueberries</a></li>
+                                                <!-- <li><a href="{{url('soon')}}">Kiwi fruit</a></li> -->
+                                                
                                             </ul>
                                         </div>
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
                                             <h3>Stone Fruits</h3>
                                             <ul>
-                                                <li><a href="{{url('soon')}}">Nectarines</a></li>
+                                                <li><a href="{{url('soon')}}"> Peaches</a></li>
                                                 <li><a href="{{url('soon')}}">Apricots</a></li>
-                                                <li><a href="{{url('soon')}}">Peaches</a></li>
                                                 <li><a href="{{url('soon')}}">Plums</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="column col-lg-3 col-md-3 col-sm-12">
-                                            <h3>Melons</h3>
-                                            <ul>
-                                                <li><a href="{{url('soon')}}">Watermelon</a></li>
-                                                <li><a href="{{url('soon')}}">Rockmelon</a></li>
-                                                <li><a href="{{url('soon')}}">Honeydew melon</a></li>
-                                                <li><a href="{{url('soon')}}">Persian Melon</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="column col-lg-3 col-md-3 col-sm-12">
-                                            <h3>Berries</h3>
-                                            <ul>
-                                                <li><a href="{{url('soon')}}">Strawberries</a></li>
-                                                <li><a href="{{url('soon')}}">Raspberries</a></li>
-                                                <li><a href="{{url('soon')}}">Blueberries</a></li>
-                                                <li><a href="{{url('soon')}}">Kiwi fruit</a></li>
                                                 
                                             </ul>
                                         </div>
@@ -172,37 +183,40 @@
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
                                             <h3>Citrus Fruits</h3>
                                             <ul>
-                                                <li><a href="{{url('oranges')}}">Oranges</a></li>
-                                                <li><a href="{{url('oranges')}}">Grapefruits</a></li>
-                                                <li><a href="{{url('oranges')}}">Mandarins</a></li>
-                                                <li><a href="{{url('oranges')}}">Limes</a></li>
+                                                <li><a href="{{url('grapes')}}">Grape fruits</a></li>
+                                                <li><a href="{{url('pixie')}}">Pixie Orange</a></li>
+                                                <li><a href="{{url('navel')}}">Navel Orange</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="column col-lg-3 col-md-3 col-sm-12">
+                                            <h3>Tropical Fruits</h3>
+                                            <ul>
+                                                <li><a href="{{url('mangoes')}}">Mangoes</a></li>
+                                                <li><a href="{{url('hass')}}">Hass Avocado</a></li>
+                                                <li><a href="{{url('fuerte')}}">Fuerte Avocado</a></li>
+                                                <!-- <li><a href="{{url('soon')}}">Bananas</a></li> -->
+                                                <!-- <li><a href="{{url('soon')}}">Guava</a></li> -->
+                                               
+                                            </ul>
+                                        </div>
+                                        
+                                        <div class="column col-lg-3 col-md-3 col-sm-12">
+                                            <h3>Berries</h3>
+                                            <ul>
+                                                
+                                                <li><a href="{{url('pomegranates')}}"> Pomegranates</a></li>
+                                                <li><a href="{{url('soon')}}">Strawberries</a></li>
+                                                <li><a href="{{url('soon')}}">Blueberries</a></li>
+                                                <!-- <li><a href="{{url('soon')}}">Kiwi fruit</a></li> -->
+                                                
                                             </ul>
                                         </div>
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
                                             <h3>Stone Fruits</h3>
                                             <ul>
-                                                <li><a href="{{url('oranges')}}">Nectarines</a></li>
-                                                <li><a href="{{url('oranges')}}">Apricots</a></li>
-                                                <li><a href="{{url('oranges')}}">Peaches</a></li>
-                                                <li><a href="{{url('oranges')}}">Plums</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="column col-lg-3 col-md-3 col-sm-12">
-                                            <h3>Melons</h3>
-                                            <ul>
-                                                <li><a href="{{url('oranges')}}">Watermelon</a></li>
-                                                <li><a href="{{url('oranges')}}">Rockmelon</a></li>
-                                                <li><a href="{{url('oranges')}}">Honeydew melon</a></li>
-                                                <li><a href="{{url('oranges')}}">Persian Melon</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="column col-lg-3 col-md-3 col-sm-12">
-                                            <h3>Berries</h3>
-                                            <ul>
-                                                <li><a href="{{url('oranges')}}">Strawberries</a></li>
-                                                <li><a href="{{url('oranges')}}">Raspberries</a></li>
-                                                <li><a href="{{url('oranges')}}">Blueberries</a></li>
-                                                <li><a href="{{url('oranges')}}">Kiwi fruit</a></li>
+                                                <li><a href="{{url('soon')}}"> Peaches</a></li>
+                                                <li><a href="{{url('soon')}}">Apricots</a></li>
+                                                <li><a href="{{url('soon')}}">Plums</a></li>
                                                 
                                             </ul>
                                         </div>
