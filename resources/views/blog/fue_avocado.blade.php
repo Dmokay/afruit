@@ -27,23 +27,23 @@
                         <div class="upper-box">
                             <div class="carousel-outer">
                                 <ul class="image-carousel owl-carousel owl-theme">
-                                    <li><a href="{{url('images/avocado/f5.jpeg')}}" class="lightbox-image"><img src="{{asset('images/avocado/f5.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/avocado/v22.jpg')}}" class="lightbox-image"><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/avocado/f3.jpeg')}}" class="lightbox-image"><img src="{{asset('images/avocado/f3.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/avocado/v22.jpg')}}" class="lightbox-image"><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/avocado/f2.jpeg')}}" class="lightbox-image"><img src="{{asset('images/avocado/f2.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/avocado/v22.jpg')}}" class="lightbox-image"><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/avocado/f1.jpeg')}}" class="lightbox-image"><img src="{{asset('images/avocado/f1.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/avocado/v22.jpg')}}" class="lightbox-image"><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/avocado/f8.jpg')}}" class="lightbox-image"><img src="{{asset('images/avocado/f8.jpg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/avocado/v22.jpg')}}" class="lightbox-image"><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></a></li>
                                 </ul>
                                 
                                 <ul class="thumbs-carousel owl-carousel owl-theme">
-                                    <li><img src="{{asset('images/avocado/f5.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/avocado/f3.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/avocado/f2.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/avocado/f1.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/avocado/f8.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></li>
                                 </ul>
                             </div>
                         </div>
@@ -219,7 +219,7 @@
                             <div class="two-column row">
                                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                                     <div class="image-box">
-                                        <figure class="image"><img src="{{asset('images/avocado/f5.jpeg')}}" alt=""></figure>
+                                        <figure class="image"><img src="{{asset('images/avocado/v22.jpg')}}" alt=""></figure>
                                     </div>
                                 </div>
                                 <div class="list-column col-lg-6 col-md-12 col-sm-12">

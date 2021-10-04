@@ -27,22 +27,22 @@
                         <div class="upper-box">
                             <div class="carousel-outer">
                                 <ul class="image-carousel owl-carousel owl-theme">
-                                    <li><a href="{{url('images/mangoes/1.jpeg')}}" class="lightbox-image"><img src="{{asset('images/mangoes/1.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/mangoes/10.jpeg')}}" class="lightbox-image"><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/mangoes/6.jpeg')}}" class="lightbox-image"><img src="{{asset('images/mangoes/6.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/mangoes/10.jpeg')}}" class="lightbox-image"><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/mangoes/8.jpeg')}}" class="lightbox-image"><img src="{{asset('images/mangoes/8.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/mangoes/10.jpeg')}}" class="lightbox-image"><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/mangoes/9.jpeg')}}" class="lightbox-image"><img src="{{asset('images/mangoes/9.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/mangoes/10.jpeg')}}" class="lightbox-image"><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></a></li>
 
                                     <li><a href="{{url('images/mangoes/10.jpeg')}}" class="lightbox-image"><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></a></li>
                                 </ul>
                                 
                                 <ul class="thumbs-carousel owl-carousel owl-theme">
-                                    <li><img src="{{asset('images/mangoes/1.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/mangoes/6.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/mangoes/8.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/mangoes/9.jpeg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></li>
                                     <li><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></li>
                                 </ul>
                             </div>
@@ -98,7 +98,7 @@
                                     <div class="two-column row">
                                         <div class="image-column col-lg-6 col-md-12 col-sm-12">
                                             <div class="image-box">
-                                                <figure class="image"><img src="{{asset('images/mangoes/8.jpeg')}}" alt=""></figure>
+                                                <figure class="image"><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></figure>
                                             </div>
                                         </div>
                                         <div class="list-column col-lg-6 col-md-12 col-sm-12">
@@ -122,8 +122,8 @@
                                     <div class="two-column row">
                                         <div class="image-column col-lg-6 col-md-12 col-sm-12">
                                             <div class="image-box">
-                                                <figure class="image"><img src="{{asset('images/mangoes/5.jpeg')}}" alt=""></figure><br>
-                                                <figure class="image"><img src="{{asset('images/mangoes/6.jpeg')}}" alt=""></figure>
+                                                <figure class="image"><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></figure><br>
+                                                <figure class="image"><img src="{{asset('images/mangoes/10.jpeg')}}" alt=""></figure>
                                             </div>
                                         </div>
                                         <div class="list-column col-lg-6 col-md-12 col-sm-12">

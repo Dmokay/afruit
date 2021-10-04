@@ -27,23 +27,23 @@
                         <div class="upper-box">
                             <div class="carousel-outer">
                                 <ul class="image-carousel owl-carousel owl-theme">
-                                    <li><a href="{{url('images/oranges/n4.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/n4.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/oranges/n6.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/n6.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/oranges/n7.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/n7.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/oranges/n8.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/n8.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/oranges/n9.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/n9.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
                                 </ul>
                                 
                                 <ul class="thumbs-carousel owl-carousel owl-theme">
-                                    <li><img src="{{asset('images/oranges/n4.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/oranges/n6.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/oranges/n7.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/oranges/n8.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/oranges/n9.jpeg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
                                 </ul>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                                 Easily identifiable because of thier peculiar human-navel-like formation found opposite
                                 the stem-end, we can tell Navel Oranges from other cultivars .Being the most popularly
                                 grown orange in the world,the fruit is sweet and has just enough juice for outstanding
-                                fresh eating. They also seedless thus good for juice bleanding and mixology.
+                                fresh eating. They are also seedless thus good for juice bleanding and mixology.
                                 
                             </p>
                           
@@ -86,7 +86,7 @@
                                     <div class="two-column row">
                                         <div class="image-column col-lg-6 col-md-12 col-sm-12">
                                             <div class="image-box">
-                                                <figure class="image"><img src="{{asset('images/oranges/n5.jpeg')}}" alt=""></figure>
+                                                <figure class="image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></figure>
                                             </div>
                                         </div>
                                         <div class="list-column col-lg-6 col-md-12 col-sm-12">
@@ -119,7 +119,7 @@
                                     <div class="two-column row">
                                         <div class="image-column col-lg-6 col-md-12 col-sm-12">
                                             <div class="image-box">
-                                                <figure class="image"><img src="{{asset('images/oranges/n3.jpeg')}}" alt=""></figure>
+                                                <figure class="image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></figure>
                                             </div>
                                         </div>
                                         <div class="list-column col-lg-6 col-md-12 col-sm-12">

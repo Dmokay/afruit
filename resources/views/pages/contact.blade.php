@@ -3,7 +3,7 @@
 @section('content')
 
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/8.jpg);">
+    <section class="page-title" style="background-image:url(images/seedlings/1.jpg);">
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
@@ -63,11 +63,11 @@
                 </div>
 
                 <!-- Image Column -->
-                <div class="image-column col-lg-6 col-md-12 col-sm-12">
+                <!-- <div class="image-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <figure class="image wow fadeIn"><img src="images/resource/image-5.png" alt=""></figure>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>

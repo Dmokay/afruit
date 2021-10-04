@@ -2,7 +2,7 @@
 @section('content')
 
 <!--Page Title-->
-<section class="page-title" style="background-image:url(images/background/8.jpg);">
+<section class="page-title" style="background-image:url(images/seedlings/1.jpg);">
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
@@ -26,7 +26,7 @@
                         <div class="content">
                             <div class="sec-title">
                                 <span class="title">About Us</span>
-                                <h2>Welcome to A-Fruit</h2>
+                                <h2>Welcome to A-Fruitplant</h2>
                             </div>
                             <div class="text">We provide enlightenment on various aspects relating to leading a healthy life. We do this by providing you with articals and blogs which are extreamly elaborate. They will open your mind and present you with a broad world surrounding healthy living</div>
                             <div class="link-box"><a href="{{url('soon')}}">More About Us <i class="fa fa-angle-double-right"></i></a></div>
@@ -36,7 +36,7 @@
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column"> 
                         <div class="image-box">
-                            <figure class="image wow fadeInUp"><img src="images/resource/image-3.jpg" alt=""></figure>
+                            <figure class="image wow fadeInUp"><img src="images/seedlings/2.jpg" alt=""></figure>
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
     <!--End About Section -->
 
     <!-- Fun Fact Section -->
-    <section class="fun-fact-section-two" style="background-image: url(images/background/5.jpg);">
+    <section class="fun-fact-section-two" style="background-image: url(images/seedlings/1.jpg);">
         <div class="auto-container">
             <div class="fact-counter">
                 <div class="row clearfix">
@@ -90,14 +90,14 @@
                 <!-- Image Column -->
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
-                        <figure class="image wow fadeInUp"><a href="images/resource/image-6.jpg" class="lightbox-image" data-fancybox="images"><img src="images/resource/image-6.jpg" alt=""></a></figure>
+                        <figure class="image wow fadeInUp"><a href="images/seedlings/3.jpg" class="lightbox-image" data-fancybox="images"><img src="images/seedlings/3.jpg" alt=""></a></figure>
                     </div>
                 </div>
 
                 <div class="features-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="title">Listed Below Four Reasons To Choose Us!</span>
+                            <span class="title">Why Choose Us!</span>
                             <h2>What We Offer</h2>
                         </div>
                         <div class="row">

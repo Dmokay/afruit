@@ -27,23 +27,23 @@
                         <div class="upper-box">
                             <div class="carousel-outer">
                                 <ul class="image-carousel owl-carousel owl-theme">
-                                    <li><a href="{{url('images/oranges/pixie8.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/pixie8.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/oranges/pixie4.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/pixie4.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/oranges/pixie1.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/pixie1.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/oranges/pixie5.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/pixie5.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
 
-                                    <li><a href="{{url('images/oranges/pixie6.jpeg')}}" class="lightbox-image"><img src="{{asset('images/oranges/pixie6.jpeg')}}" alt=""></a></li>
+                                    <li><a href="{{url('images/seedlings/1.jpg')}}" class="lightbox-image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></a></li>
                                 </ul>
                                 
                                 <ul class="thumbs-carousel owl-carousel owl-theme">
-                                    <li><img src="{{asset('images/oranges/pixie8.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/oranges/pixie4.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/oranges/pixie1.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/oranges/pixie5.jpeg')}}" alt=""></li>
-                                    <li><img src="{{asset('images/oranges/pixie6.jpeg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
+                                    <li><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></li>
                                 </ul>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
                             <div class="two-column row">
                                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                                     <div class="image-box">
-                                        <figure class="image"><img src="{{asset('images/oranges/pixie2.jpeg')}}" alt=""></figure>
+                                        <figure class="image"><img src="{{asset('images/seedlings/1.jpg')}}" alt=""></figure>
                                     </div>
                                 </div>
                                 <div class="list-column col-lg-6 col-md-12 col-sm-12">

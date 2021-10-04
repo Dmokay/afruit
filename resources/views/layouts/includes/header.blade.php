@@ -82,9 +82,22 @@
                         <ul class="navigation clearfix">
                             <li><a href="{{url('/')}}">Home</a></li>
                             <li><a href="{{url('about')}}">About Us</a></li>
+
+                            <li class="dropdown"><a href="#">Products</a>
+                                        <ul>
+                                            
+                                                <li><a href="{{url('grapes')}}">Grape fruits</a></li>
+                                                <li><a href="{{url('pixie')}}">Pixie Orange</a></li>
+                                                <li><a href="{{url('navel')}}">Navel Orange</a></li>
+                                                <li><a href="{{url('mangoes')}}">Mangoes</a></li>
+                                                <li><a href="{{url('hass')}}">Hass Avocado</a></li>
+                                                <li><a href="{{url('fuerte')}}">Fuerte Avocado</a></li>
+                                                <li><a href="{{url('pomegranates')}}"> Pomegranates</a></li>
+                                        </ul>
+                            </li>
                         
                            
-                            <li class="dropdown has-mega-menu"><a href="#">Products</a>
+                            <!-- <li class="dropdown has-mega-menu"><a href="#">Products</a>
                                 <div class="mega-menu">
                                     <div class="mega-menu-bar row">
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
@@ -100,11 +113,11 @@
                                             <ul>
                                                 <li><a href="{{url('mangoes')}}">Mangoes</a></li>
                                                 <li><a href="{{url('hass')}}">Hass Avocado</a></li>
-                                                <li><a href="{{url('fuerte')}}">Fuerte Avocado</a></li>
+                                                <li><a href="{{url('fuerte')}}">Fuerte Avocado</a></li> -->
                                                 <!-- <li><a href="{{url('soon')}}">Bananas</a></li> -->
                                                 <!-- <li><a href="{{url('soon')}}">Guava</a></li> -->
                                                
-                                            </ul>
+                                            <!-- </ul>
                                         </div>
                                         
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
@@ -113,10 +126,10 @@
                                             
                                                 <li><a href="{{url('pomegranates')}}"> Pomegranates</a></li>
                                                 <li><a href="{{url('soon')}}">Strawberries</a></li>
-                                                <li><a href="{{url('soon')}}">Blueberries</a></li>
+                                                <li><a href="{{url('soon')}}">Blueberries</a></li> -->
                                                 <!-- <li><a href="{{url('soon')}}">Kiwi fruit</a></li> -->
                                                 
-                                            </ul>
+                                            <!-- </ul>
                                         </div>
                                         <div class="column col-lg-3 col-md-3 col-sm-12">
                                             <h3>Stone Fruits</h3>
@@ -129,7 +142,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </li>
+                            </li> -->
                             <li><a href="{{url('contact')}}">Contact Us</a></li>
                         </ul> 
                     </div>
@@ -175,54 +188,20 @@
                 <ul class="navigation clearfix">
                             <li><a href="{{url('/')}}">Home</a></li>
                             <li><a href="{{url('about')}}">About Us</a></li>
-                        
-                           
-                            <li class="dropdown has-mega-menu"><a href="#">Blog</a>
-                                <div class="mega-menu">
-                                    <div class="mega-menu-bar row">
-                                        <div class="column col-lg-3 col-md-3 col-sm-12">
-                                            <h3>Citrus Fruits</h3>
-                                            <ul>
+
+                            <li class="dropdown"><a href="#">Products</a>
+                                        <ul>
+                                            
                                                 <li><a href="{{url('grapes')}}">Grape fruits</a></li>
                                                 <li><a href="{{url('pixie')}}">Pixie Orange</a></li>
                                                 <li><a href="{{url('navel')}}">Navel Orange</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="column col-lg-3 col-md-3 col-sm-12">
-                                            <h3>Tropical Fruits</h3>
-                                            <ul>
                                                 <li><a href="{{url('mangoes')}}">Mangoes</a></li>
                                                 <li><a href="{{url('hass')}}">Hass Avocado</a></li>
                                                 <li><a href="{{url('fuerte')}}">Fuerte Avocado</a></li>
-                                                <!-- <li><a href="{{url('soon')}}">Bananas</a></li> -->
-                                                <!-- <li><a href="{{url('soon')}}">Guava</a></li> -->
-                                               
-                                            </ul>
-                                        </div>
-                                        
-                                        <div class="column col-lg-3 col-md-3 col-sm-12">
-                                            <h3>Berries</h3>
-                                            <ul>
-                                                
                                                 <li><a href="{{url('pomegranates')}}"> Pomegranates</a></li>
-                                                <li><a href="{{url('soon')}}">Strawberries</a></li>
-                                                <li><a href="{{url('soon')}}">Blueberries</a></li>
-                                                <!-- <li><a href="{{url('soon')}}">Kiwi fruit</a></li> -->
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="column col-lg-3 col-md-3 col-sm-12">
-                                            <h3>Stone Fruits</h3>
-                                            <ul>
-                                                <li><a href="{{url('soon')}}"> Peaches</a></li>
-                                                <li><a href="{{url('soon')}}">Apricots</a></li>
-                                                <li><a href="{{url('soon')}}">Plums</a></li>
-                                                
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                                        </ul>
                             </li>
+                   
                             <li><a href="{{url('contact')}}">Contact Us</a></li>
                         </ul>
                 </div>

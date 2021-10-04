@@ -56,13 +56,13 @@
                                     <div class="widget-content">
                                     <div class="widget-content">
                                         <div class="post">
-                                            <div class="thumb"><a href="{{url('https://www.kenyanews.go.ke/farmers-ditch-maize-growing-for-profitable-passion-fruit/')}}" target="_blank"><img src="images/resource/post-thumb-1.jpg" alt=""></a></div>
+                                            <div class="thumb"><a href="{{url('https://www.kenyanews.go.ke/farmers-ditch-maize-growing-for-profitable-passion-fruit/')}}" target="_blank"><img src="images/passion.jpg" alt=""></a></div>
                                             <h4><a href="{{url('https://www.kenyanews.go.ke/farmers-ditch-maize-growing-for-profitable-passion-fruit/')}}" target="_blank">Farmers Ditch Maize Farming For Passion Fruit</a></h4>
                                             <span class="date">SEP 26, 2021</span>
                                         </div>
 
                                         <div class="post">
-                                            <div class="thumb"><a href="{{('https://www.kenyans.co.ke/news/66330-pitaya-nutritious-fruit-making-millions-kenyan-farmers')}}" target="_blank"><img src="images/resource/post-thumb-2.jpg" alt=""></a></div>
+                                            <div class="thumb"><a href="{{('https://www.kenyans.co.ke/news/66330-pitaya-nutritious-fruit-making-millions-kenyan-farmers')}}" target="_blank"><img src="images/pitaya.jpg" alt=""></a></div>
                                             <h4><a href="{{('https://www.kenyans.co.ke/news/66330-pitaya-nutritious-fruit-making-millions-kenyan-farmers')}}" target="_blank">Pitaya: Nutritious Fruit Extreamly Profitable</a></h4>
                                             <span class="date">JUL 07, 2021</span>
                                         </div>

@@ -5,28 +5,28 @@
     <!-- Bnner Section -->
     <section class="banner-section">
         <div class="banner-carousel owl-carousel owl-theme">
-            <div class="slide-item" style="background-image: url(images/main-slider/image-1.jpg);">
+            <div class="slide-item" style="background-image: url(images/seedlings/1.jpg);">
                 <div class="auto-container">
                 <div class="content-box">
                         <h4>Quality Seedlings </h4>
-                        <h2>Fruit Plants Seedlings for your Fruit Farming</h2>
+                        <h2>Fruit Seedlings for your Fruit Farming</h2>
                         <div class="text">We will guide you every step of the way </div>
                         <div class="link-box">
-                            <a href="{{url('hass')}}">Our Products <i class="fa fa-angle-double-right"></i></a>
+                            <a href="{{url('navel')}}">Oranges <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     
                 </div>
             </div>
 
-            <div class="slide-item" style="background-image: url(images/main-slider/image-2.jpg);">
+            <div class="slide-item" style="background-image: url(images/avocado/v4.jpg);">
                 <div class="auto-container">
                 <div class="content-box">
                         <h4>Educating Masses </h4>
                         <h2>Making fruit farming easy and enjoyable</h2>
                         <div class="text">Get Enlightened on various fruit Cultivation Strategies</div>
                         <div class="link-box">
-                            <a href="{{url('navel')}}">Our products <i class="fa fa-angle-double-right"></i></a>
+                            <a href="{{url('hass')}}">Avocados <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     
@@ -45,7 +45,7 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="images/grapes/grapes1.jpeg" alt=""></figure>
+                                <figure class="image"><img src="images/grapes/g2.jpg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="inner">
                                         <div class="text">
@@ -60,7 +60,7 @@
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="{{url('grapes')}}">Grape Fruits</a></h4>
+                                <h4><a href="{{url('grapes')}}">Grape Seedlings</a></h4>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="images/oranges/n1.jpeg" alt=""></figure>
+                                <figure class="image"><img src="images/seedlings/1.jpg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="inner">
                                         <div class="text">
@@ -93,7 +93,7 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="images/avocado/hass2.jpeg" alt=""></figure>
+                                <figure class="image"><img src="images/avocado/v4.jpg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="inner">
                                         <div class="text">
@@ -108,7 +108,7 @@
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="{{url('hass')}}">Hass Avocado</a></h4>
+                                <h4><a href="{{url('hass')}}">Hass Avocado Seedlings</a></h4>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="images/mangoes/9.jpeg" alt=""></figure>
+                                <figure class="image"><img src="images/mangoes/10.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="inner">
                                         <div class="text">
@@ -134,7 +134,7 @@
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="{{url('mangoes')}}">Mango Fruit</a></h4>
+                                <h4><a href="{{url('mangoes')}}">Mango Seedlings</a></h4>
                             </div>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="images/pomegranates/5.jpeg" alt=""></figure>
+                                <figure class="image"><img src="images/pomegranates/8.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="inner">
                                         <div class="text">
@@ -159,7 +159,7 @@
                             </div>
                             <div class="caption-box">
                                 <span class="icon flaticon-plant"></span>
-                                <h4><a href="{{url('pomegranates')}}">Pomegranate Fruit </a></h4>
+                                <h4><a href="{{url('pomegranates')}}">Pomegranate Seedlings </a></h4>
                             </div>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title">Who We Are</span>
-                <h2>About A-Fruit</h2>
+                <h2>About A-Fruitplant</h2>
             </div>
 
             <!--Work Tabs-->
@@ -182,8 +182,8 @@
                 <!--Tab Btns-->
                 <ul class="tab-btns tab-buttons clearfix">
                     <li data-tab="#tab-1" class="tab-btn"> Enlightening</li>
-                    <li data-tab="#tab-2" class="tab-btn active-btn">Promoting</li>
-                    <li data-tab="#tab-3" class="tab-btn">Upholding</li>
+                    <li data-tab="#tab-2" class="tab-btn active-btn">Provide</li>
+                    <li data-tab="#tab-3" class="tab-btn">Support</li>
                 </ul>
                 
                 <!--Tabs Container-->
@@ -195,20 +195,20 @@
                             <div class="content-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-column">
                                     <h3>Educating Masses</h3>
-                                    <div class="text">An explanation on how A-Fruit enlightens the masses on matters to do with health.</div>
+                                    <div class="text">We educate you on the crop or fruit which you wish to cultivate. We enable you decide on:</div>
                                     <ul class="list-style-one">
-                                        <li>How we do it</li>
-                                        <li>Why we do it</li>
-                                        <li>The motivation</li>
-                                        <li>Long term goal</li>
+                                        <li>Farming Strategy</li>
+                                        <li>Best crop Variety</li>
+                                        <li>Best soil type</li>
+                                        <li>Farming conditions</li>
                                     </ul>
-                                    <div class="btn-box"><a href="{{url('soon')}}" class="theme-btn btn-style-one">Read More</a></div>
+                                    <div class="btn-box"><a href="{{url('about')}}" class="theme-btn btn-style-one">Read More</a></div>
                                 </div>
                             </div>
 
                             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-column">
-                                    <figure class="image"><a href="images/berries.jpg" class="lightbox-image" data-fancybox="images"><img src="images/berries.jpg" alt=""></a></figure>
+                                    <figure class="image"><a href="images/grapes/g1.jpg" class="lightbox-image" data-fancybox="images"><img src="images/grapes/g1.jpg" alt=""></a></figure>
                                 </div>
                             </div>
                         </div>
@@ -220,22 +220,21 @@
                             <!-- Content Column -->
                             <div class="content-column col-lg-6 col-md-12 col-sm-12">
                             <div class="inner-column">
-                                    <h3>Promoting the Craft</h3>
-                                    <div class="text">An explanation on how A-Fruit promotes the craft of writing to address matters to do with health.</div>
+                                    <h3>Making available</h3>
+                                    <div class="text">We will provide you with all you need to conduct your farming, for instance seedlings.</div>
                                     <ul class="list-style-one">
-                                        <li>How we do it</li>
-                                        <li>Why we do it</li>
-                                        <li>The motivation</li>
-                                        <li>Long term goal</li>
+                                        <li>Grafted Seedlings</li>
+                                        <li>Seedling varieties</li>
+                                        
                                     </ul>
-                                    <div class="btn-box"><a href="{{url('soon')}}" class="theme-btn btn-style-one">Read More</a></div>
+                                    <div class="btn-box"><a href="{{url('about')}}" class="theme-btn btn-style-one">Read More</a></div>
                                 </div>
                             </div>
 
                             <!-- Image Column -->
                             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-column">
-                                    <figure class="image"><a href="images/blackberry.jpg" class="lightbox-image" data-fancybox="images"><img src="images/blackberry.jpg" alt=""></a></figure>
+                                    <figure class="image"><a href="images/grapes/g5.jpg" class="lightbox-image" data-fancybox="images"><img src="images/grapes/g5.jpg" alt=""></a></figure>
                                 </div>
                             </div>
                         </div>
@@ -247,21 +246,20 @@
                             <!-- Content Column -->
                             <div class="content-column col-lg-6 col-md-12 col-sm-12">
                             <div class="inner-column">
-                                    <h3>Upholding</h3>
-                                    <div class="text">An explanation on how A-Fruit upholds the various life principles.</div>
+                                    <h3>Holding your hand</h3>
+                                    <div class="text">You will not be alone during this journey. We will support you every step of the way until you attain success.</div>
                                     <ul class="list-style-one">
-                                        <li>How we do it</li>
-                                        <li>Why we do it</li>
-                                        <li>The motivation</li>
-                                        <li>Long term goal</li>
+                                        <li>Skill development</li>
+                                        <li>The knowledge</li>
+                                        
                                     </ul>
-                                    <div class="btn-box"><a href="{{url('soon')}}" class="theme-btn btn-style-one">Read More</a></div>
+                                    <div class="btn-box"><a href="{{url('about')}}" class="theme-btn btn-style-one">Read More</a></div>
                                 </div>
                             </div>
 
                             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-column">
-                                    <figure class="image"><a href="images/orange3.jpg" class="lightbox-image" data-fancybox="images"><img src="images/orange3.jpg" alt=""></a></figure>
+                                    <figure class="image"><a href="images/grapes/g2.jpg" class="lightbox-image" data-fancybox="images"><img src="images/grapes/g2.jpg" alt=""></a></figure>
                                 </div>
                             </div>
                         </div>
@@ -273,110 +271,11 @@
     <!--End Work Section -->
 
     <!-- Call Back and Testimonial -->
-    <section class="call-back-and-testimonial">
-        <div class="auto-container">
-            <div class="row">
-                <!-- Form Column -->
-                <div class="form-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="image-box"><figure class="image"><img src="images/resource/image-2.jpg" alt=""></figure></div>
-                        <div class="appointment-form wow fadeInUp">
-                            <div class="title-box">
-                                <h3>Request Call Back</h3>
-                            </div>
-                            <form method="get" action="{{url('soon')}}">
-
-                                <div class="form-group">
-                                    <input type="text" name="username" placeholder="Your Name" required="">
-                                </div>
-                                
-                                <div class="form-group">
-                                    <input type="text" name="phone" placeholder="Your Number" required="">
-                                </div>
-
-                                <div class="form-group">
-                                    <input type="email" name="email" placeholder="Your Email" required="">
-                                </div>
-
-                                <div class="form-group">
-                                    <input type="text" name="subject" placeholder="Your Subject">
-                                </div>
-
-                                <div class="form-group text-center">
-                                    <button class="theme-btn btn-style-one" type="submit" name="submit-form">Submit</button>
-                                </div>
-                            </form>
-                            <div class="message-box"><a href="#"><span>*</span> You accept the terms of the privacy policy</a></div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Testimonial Column -->
-                <div class="testimonial-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="title">Have Your Say</span>
-                            <h2>We Let you Express Yourself</h2>
-                        </div>
-
-                        <div class="testimonial-carousel owl-carousel owl-theme">
-                            <!-- Testimonial Block -->
-                            <div class="testimonial-block">
-                                <div class="inner-box">
-                                    <div class="info-box">
-                                        <div class="thumb"><img src="images/resource/thumb.jpg" alt=""></div>
-                                        <h5 class="name">Kevin Kirwa</h5>
-                                        <span class="designation">Blogger</span>
-                                        <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star dark"></span><span class="fa fa-star dark"></span></div>
-                                    </div>
-                                    <div class="content-box">
-                                        <span class="icon fa fa-quote-right"></span>
-                                        <div class="text">The customers, bloggers and anybody who visits your site will be able to leave a comment meant to improve your services.</div>                                        
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Testimonial Block -->
-                            <div class="testimonial-block">
-                                <div class="inner-box">
-                                    <div class="info-box">
-                                        <div class="thumb"><img src="images/resource/thumb.jpg" alt=""></div>
-                                        <h5 class="name">Victor Onyango</h5>
-                                        <span class="designation">Blogger</span>
-                                        <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star dark"></span><span class="fa fa-star dark"></span></div>
-                                    </div>
-                                    <div class="content-box">
-                                        <span class="icon fa fa-quote-right"></span>
-                                        <div class="text">The customers, bloggers and anybody who visits your site will be able to leave a comment meant to improve your services.</div>                                        
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Testimonial Block -->
-                            <div class="testimonial-block">
-                                <div class="inner-box">
-                                    <div class="info-box">
-                                        <div class="thumb"><img src="images/resource/thumb.jpg" alt=""></div>
-                                        <h5 class="name">Ann Ngina</h5>
-                                        <span class="designation">Blogger</span>
-                                        <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star dark"></span><span class="fa fa-star dark"></span></div>
-                                    </div>
-                                    <div class="content-box">
-                                        <span class="icon fa fa-quote-right"></span>
-                                        <div class="text">The customers, bloggers and anybody who visits your site will be able to leave a comment meant to improve your services.</div>                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!-- End Call Back and Testimonial -->
     
     <!-- Call To Action -->
-    <section class="call-to-action" style="background-image: url(images/background/1.jpg);">
+    <section class="call-to-action" style="background-image: url(images/seedlings/1.jpg);">
         <div class="auto-container">
             <div class="row">
                 <!-- Content Column -->
@@ -420,19 +319,19 @@
                             <div class="news-block">
                                 <div class="row">
                                     <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                                        <figure class="image"><a href="{{url('soon')}}"><img src="images/ovacado.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="{{url('hass')}}"><img src="images/avocado/v22.jpg" alt=""></a></figure>
                                     </div>
 
                                     <div class="content-column col-lg-6 col-md-12 col-sm-12">
                                         <div class="inner">
-                                            <h3><a href="{{url('soon')}}">Why We Should eat a fruit after every meal?</a></h3>
+                                            <h3><a href="{{url('hass')}}">Why We Should eat a fruit after every meal?</a></h3>
                                             <ul class="info">
                                                 <li><a href="#"><i class="fa fa-comments"></i>Comment 23</a></li>
                                                 <li><a href="#"><i class="fa fa-user"></i>Aroka Moni</a></li>
                                                 <li><a href="#"><i class="fa fa-calendar"></i>Nov, 18, 2018</a></li>
                                             </ul>
                                             <div class="text">It is essential to embrace including a fruit in your meal. In an effort to keep a balanced diet, fruits play a major role</div>
-                                            <div class="link-box"><a href="{{url('soon')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
+                                            <div class="link-box"><a href="{{url('hass')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -442,19 +341,19 @@
                             <div class="news-block">
                                 <div class="row">
                                     <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                                        <figure class="image"><a href="{{url('soon')}}"><img src="images/gmo.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="{{url('navel')}}"><img src="images/seedlings/4.jpg" alt=""></a></figure>
                                     </div>
 
                                     <div class="content-column col-lg-6 col-md-12 col-sm-12">
                                         <div class="inner">
-                                            <h3><a href="{{url('soon')}}">The myth surrounding production of GMO fruits.</a></h3>
+                                            <h3><a href="{{url('navel')}}">The myth surrounding production of GMO Oranges.</a></h3>
                                             <ul class="info">
                                                 <li><a href="#"><i class="fa fa-comments"></i>Comment 23</a></li>
                                                 <li><a href="#"><i class="fa fa-user"></i>Aroka Moni</a></li>
                                                 <li><a href="#"><i class="fa fa-calendar"></i>Nov, 18, 2018</a></li>
                                             </ul>
                                             <div class="text">Genetic modification of crops is a current norm around the globe. It has caused alot of debate on how safe the crops genetically modified are.</div>
-                                            <div class="link-box"><a href="{{url('oranges')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
+                                            <div class="link-box"><a href="{{url('navel')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -464,19 +363,19 @@
                             <div class="news-block">
                                 <div class="row">
                                     <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                                        <figure class="image"><a href="{{url('soon')}}"><img src="images/banana.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="{{url('grapes')}}"><img src="images/grapes/g55.jpg" alt=""></a></figure>
                                     </div>
 
                                     <div class="content-column col-lg-6 col-md-12 col-sm-12">
                                         <div class="inner">
-                                            <h3><a href="{{url('soon')}}">An apple or a Banana?</a></h3>
+                                            <h3><a href="{{url('grapes')}}">The nutrient benefits of Green Grapes?</a></h3>
                                             <ul class="info">
                                                 <li><a href="#"><i class="fa fa-comments"></i>Comment 23</a></li>
                                                 <li><a href="#"><i class="fa fa-user"></i>Aroka Moni</a></li>
                                                 <li><a href="#"><i class="fa fa-calendar"></i>Nov, 18, 2018</a></li>
                                             </ul>
-                                            <div class="text">Nutritionally speaking, fruits have different nutritional value.If you were told to choose between an apple and a banana which one will you go with?</div>
-                                            <div class="link-box"><a href="{{url('soon')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
+                                            <div class="text">Nutritionally speaking, fruits have different nutritional value.If you were told to choose between red and green grapes which one will you go with?</div>
+                                            <div class="link-box"><a href="{{url('grapes')}}">Read More <i class="fa fa-angle-double-right"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
